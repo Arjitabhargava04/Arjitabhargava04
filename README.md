@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **arjitabhargav@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11-EL4Ghc1fPXAYibxtgrx2BPr15ygkg9/view?usp=drivesdk](https://drive.google.com/file/d/11-EL4Ghc1fPXAYibxtgrx2BPr15ygkg9/view?usp=drivesdk)
-
+- 📄 Know about my experiences 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://linkedin.com/in/arjitabhargava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/arjitabhargava" height="30" width="40" /></a>
